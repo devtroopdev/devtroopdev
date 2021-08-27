@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devtroopdev
 - 👀 I’m interested in Game Development and Discord Bot's
-- 🌱 I’m currently learning Unity and Discord.js
+- 🌱 I’m currently learning Unity and Godot and other stuff
 - 📫 How to reach me on https://www.youtube.com/channel/UCUfybPRigIs68BI-5Nw3ucg or devtroopdev@gmail.com
 
 <!---
