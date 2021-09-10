@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DevTroop
 - 👀 I’m interested in Game Development and coding
-- 🌱 I’m currently learning Unity, c#, javascript, godot
+- 🌱 I’m currently learning Unity, C#, JavaScript, Godot
 - 📫 How to reach me on https://www.youtube.com/channel/UCUfybPRigIs68BI-5Nw3ucg or devtroopdev@gmail.com
 
 <!---
