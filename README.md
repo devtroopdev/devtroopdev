@@ -1,7 +1,7 @@
-- 👋 Hi, I’m DevTroop
-- 👀 I’m interested in Game Development and coding
-- 🌱 I’m currently learning Unity, C#, JavaScript, Godot
-- 📫 How to reach me on https://www.youtube.com/channel/UCUfybPRigIs68BI-5Nw3ucg or devtroopdev@gmail.com
+- 👋 Hi, I’m DevTroop , nice to meet you!
+- 👀 I’m interested in Game Development, Coding, art and music.
+- 🌱 I’m currently learning Unity, C#, JavaScript, Node JS, Web Development.
+- 📫 Best way to contact me? Send me a email to (devtroopdev@gmail.com) will be checking daily!
 
 <!---
 devtroopdev/devtroopdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
